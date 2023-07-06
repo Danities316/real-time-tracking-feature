@@ -9,6 +9,9 @@ This project implements a simple real-time tracking feature that allows users to
 - **Notifications**: Receive automated notifications about important milestones or delays.
 - **Historical Tracking**: Access a history of previous deliveries and review their tracking information.
 
+## Live Demo
+- Live Demo(https://real-time-tracking-feature.onrender.com/)
+
 ## Technologies Used
 
 - **Backend**: Node.js, Express.js
@@ -19,7 +22,7 @@ This project implements a simple real-time tracking feature that allows users to
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/real-time-tracking.git`
+1. Clone the repository: `git clone https://github.com/Danities316/real-time-tracking-feature.git`
 2. Navigate to the project directory: `cd real-time-tracking`
 3. Install dependencies: `npm install`
 4. Set up the MongoDB database and configure the connection in the project.
