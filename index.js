@@ -30,8 +30,6 @@ app.use(bodyParser.urlencoded({
 }));
 
 
-
-
 // Render Main HTML file
 app.get('/', (req, res) => {
     res.sendFile('views/index.html', {
