@@ -10,7 +10,7 @@ This project implements a simple real-time tracking feature that allows users to
 - **Historical Tracking**: Access a history of previous deliveries and review their tracking information.
 
 ## Live Demo
-- Live Demo(https://real-time-tracking-feature.onrender.com/)
+- [Live Demo](https://real-time-tracking-feature.onrender.com/)
 
 ## Technologies Used
 
@@ -54,6 +54,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact [https://linktr.ee/danities].
+For any inquiries or feedback, please contact[https://linktr.ee/danities].
 
 **Thank you for using the Real-Time Tracking Feature! Enjoy tracking your deliveries in real-time!**
